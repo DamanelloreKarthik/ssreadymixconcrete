@@ -64,7 +64,7 @@ const Home = () => {
 
           <div className={styles.bannerContent}>
             <div className={styles.bannerHeading}>
-              <h1>SRUTHI CONSTRUCTIONS & READY MIX CONCRETE</h1>
+              <h1>SRUTHI CONSTRUCTIONS & READY MIX CONCRETE SUPPLIERS</h1>
             </div>
 
             <div className={styles.bannerContactInfo}>
@@ -126,7 +126,7 @@ const Home = () => {
               >
                 MAKE AN ENQUIRY
               </button> */}
-              <Modal/>
+              <Modal />
             </div>
           </div>
         </div>
